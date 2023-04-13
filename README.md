@@ -1,2 +1,3 @@
 # STU--System
 Student information system along with its management ...
+![Screenshot 2023-04-13 143157](https://user-images.githubusercontent.com/100538655/231725905-4ce583b9-6bf4-45bd-adf0-1c4250ca631b.png)
